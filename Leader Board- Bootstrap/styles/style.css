@@ -1,0 +1,17 @@
+body {
+  background-color: #e5e5e5;
+}
+
+.navigation-bar {
+  max-width: 73%;
+}
+
+#top-player-blogs {
+  background-color: #ffffff;
+  max-width: 72%;
+  border-radius: 0.5rem;
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: white;
+}
